@@ -38,3 +38,14 @@
 #' #' @format A \link{\code{vector}} containing RGB colors.
 #' #' @source Numbers International Pty Ltd.
 #' "q.colors"
+#'
+#'
+#'
+#' Q's color palate (16 October 2014)
+#'
+#' The colors used in the data analysis package www.q-researchsoftware.com
+#' #'
+#' @format A vector containing RGB colors
+"qColors"
+
+
