@@ -12,5 +12,5 @@ qColors = c(grDevices::rgb(91, 155, 213, 255, max = 255), # blue
             grDevices::rgb(67, 104, 43, 255, max = 255), # darker green
             grDevices::rgb(255, 255, 255, 255, max = 255), # black
             grDevices::rgb(255, 35, 35, 255, max = 255)) # red
-devtools::use_data(qColors, internal = TRUE, overwrite = TRUE)
+devtools::use_data(qColors, internal = FALSE, overwrite = TRUE) #internal = TRUE
 
