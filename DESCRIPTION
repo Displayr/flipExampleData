@@ -7,5 +7,6 @@ Maintainer: Tim Bock <tim.bock@numbers.net.au>
 Description: Multivariate models and supporting code.
 License: CC0
 Depends: R (>= 2.10)
+Imports: utils
 LazyData: TRUE
 RoxygenNote: 5.0.1

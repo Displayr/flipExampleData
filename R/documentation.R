@@ -1,3 +1,10 @@
+#' Q's color palate (16 October 2014)
+#'
+#' @description Colors used in the data analysis app www.q-researchsoftware.com
+#' @format A vector containing RGB colors
+"qColors"
+
+
 #globalVariables(c("q.colors"))
 
 #'
@@ -41,11 +48,6 @@
 #'
 #'
 #'
-#' Q's color palate (16 October 2014)
-#'
-#' The colors used in the data analysis package www.q-researchsoftware.com
-#' #'
-#' @format A vector containing RGB colors
-"qColors"
+
 
 

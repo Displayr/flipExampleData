@@ -3,6 +3,7 @@
 #' @param file A path and file name.
 #' @param as.is Prevents factors from automatically being created (see \code{\link[utils]{read.csv}})
 #' @return A \code{\link[base]{data.frame}} containing a representation of the data in the file.
+#' @importFrom utils read.csv
 #' @export
 ReadCsvTable <- function(file, as.is = TRUE, ...){
   # Reads a table in where the first row and column contain labels
