@@ -12,6 +12,12 @@ Attribute=c('Kids', 'Teens', "Enjoy life", 'Picks you up', 'Refreshes', 'Cheers 
 devtools::use_data(csd.perceptions, internal = FALSE, overwrite = TRUE)
 
 
+
+
+
+
+
+
 data(csd.perceptions)
 z <- csd.perceptions[c(5:8, 1:4),3:4]
 
