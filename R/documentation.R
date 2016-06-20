@@ -95,7 +95,7 @@
 #' @description Sales and advertising data for Benetton.
 #' @format A \link{\code{data.frame}}.
 #' @source Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
-"Benetton"
+"benetton"
 
 
 #globalVariables(c("q.colors"))
