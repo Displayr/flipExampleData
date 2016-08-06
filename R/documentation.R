@@ -97,6 +97,14 @@
 #' @source Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
 "benetton"
 
+#'  weight
+#'
+#' @description Name, height, weight, and age, of children.
+#' @format A \link{\code{data.frame}}.
+#' @source 6 August 2016: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_introreg_sect003.htm.
+"weight"
+
+
 
 #globalVariables(c("q.colors"))
 
