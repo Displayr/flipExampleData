@@ -4,7 +4,7 @@
 \name{big5cola}
 \alias{big5cola}
 \title{Big 5 Cola}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \usage{
 big5cola
 }

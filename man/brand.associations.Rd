@@ -4,7 +4,7 @@
 \name{brand.associations}
 \alias{brand.associations}
 \title{Brand Associations}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 Numbers International Pty Ltd.
 }

@@ -4,7 +4,7 @@
 \name{cola.original}
 \alias{cola.original}
 \title{Cola Original}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \usage{
 cola.original
 }
