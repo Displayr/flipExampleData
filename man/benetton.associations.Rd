@@ -4,7 +4,7 @@
 \name{benetton.associations}
 \alias{benetton.associations}
 \title{Benetton Associations}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 Adapted from Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
 }
