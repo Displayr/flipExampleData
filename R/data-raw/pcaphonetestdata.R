@@ -4,6 +4,7 @@
 
 temp <- foreign::read.spss(system.file("extdata", "pcaPhoneTestData.sav", package = "flipExampleData"),
                            to.data.frame = TRUE, use.value.labels = FALSE)
+temp <- TidySPSS(temp)
 pcaPhoneTestData <- list(data.set = temp[,match("q2320_1", names(temp)):match("q2320_25", names(temp))],
                   data.set.original =  temp[,match("q23a", names(temp)):match("q23y", names(temp))],
                   weight = temp$wBTNOH,
