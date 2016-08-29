@@ -4,7 +4,7 @@
 \name{benetton}
 \alias{benetton}
 \title{Benetton}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
 }
