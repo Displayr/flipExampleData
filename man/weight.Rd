@@ -4,7 +4,7 @@
 \name{weight}
 \alias{weight}
 \title{weight}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 6 August 2016: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_introreg_sect003.htm.
 }

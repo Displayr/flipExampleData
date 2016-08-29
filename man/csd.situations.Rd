@@ -4,7 +4,7 @@
 \name{csd.situations}
 \alias{csd.situations}
 \title{CSD Situations}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 Tim Bock.
 }

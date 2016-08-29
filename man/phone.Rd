@@ -4,7 +4,7 @@
 \name{phone}
 \alias{phone}
 \title{Phone}
-\format{A \link{\code{data.frame}}.}
+\format{A \code{\link{data.frame}}.}
 \source{
 Tim Bock.
 }
