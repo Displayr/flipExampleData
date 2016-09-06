@@ -12,7 +12,7 @@ Multivariate Data Analysis (7th Edition) 7th Edition, Joseph F. Hair Jr (Author)
 hbat.with.splits
 }
 \description{
-HBAT industries market researc].
+HBAT industries market research.
 }
 \keyword{datasets}
 

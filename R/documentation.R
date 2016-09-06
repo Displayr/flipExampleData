@@ -77,7 +77,7 @@
 
 #'  hbat.with.splits
 #'
-#' @description HBAT industries market researc].
+#' @description HBAT industries market research.
 #' @format A \code{\link{data.frame}}.
 #' @source Multivariate Data Analysis (7th Edition) 7th Edition, Joseph F. Hair Jr (Author), William C. Black  (Author), Barry J. Babin  (Author), Rolph E. Anderson (Author).
 "hbat.with.splits"
