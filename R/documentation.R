@@ -75,6 +75,13 @@
 #' @source Numbers International Pty Ltd.
 "brand.associations"
 
+#'  hbat.with.splits
+#'
+#' @description HBAT industries market researc].
+#' @format A \code{\link{data.frame}}.
+#' @source Multivariate Data Analysis (7th Edition) 7th Edition, Joseph F. Hair Jr (Author), William C. Black  (Author), Barry J. Babin  (Author), Rolph E. Anderson (Author).
+"hbat.with.splits"
+
 #'  Phone
 #'
 #' @description A survey about mobile phones, conducted from a sample of 725 friends and family of University of Sydney students, c. 2001.
