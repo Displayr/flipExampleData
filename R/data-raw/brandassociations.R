@@ -1,6 +1,8 @@
 brand.associations <- read.csv(system.file("extdata", "brandassoc.csv", package = "flipExampleData"), row.names = 1)
+colnames(brand.associations) <- gsub("\\.", "\\-", colnames(brand.associations))
+brand.associations <- as.matrix(brand.associations)
+names(dimnames(brand.associations)) <- c("Brands", "Personality")
 devtools::use_data(brand.associations, internal = FALSE, overwrite = TRUE)
-
 
 
 
