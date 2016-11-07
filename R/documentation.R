@@ -18,6 +18,21 @@
 #' @format A vector containing RGB colors
 "qColors"
 
+#' consultant
+#'
+#' @description The data shows what data science consultants believe their clients want
+#' when they hire a data scientist. The data scientists were all survey research specialists
+#'  (i.e., market researchers). Each of 1,145 consultants was asked to rate, on a scale of 1 to 5,
+#'  how important they believe their clients regard things like Length of experience/time
+#'  in business and Uses sophisticated research technology/strategies. A total of 25 statements
+#'  were rated. Each consultant only provided 12 ratings, with the 12 ratings determined by randomization.
+#'
+#'  Additional profiling data is also included.
+#'
+#'  This data was collected by GreenBook.
+#' @format A \code{\link{data.frame}}.
+"consultant"
+
 #' Cola Original
 #'
 #' @description A data file from a survey of the Australian cola market in 2007.
