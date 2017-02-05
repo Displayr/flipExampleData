@@ -33,5 +33,5 @@ notifications:
 # committing a new change to .travis.yml in each repository
 after_success: >-
   if [ $TRAVIS_EVENT_TYPE == 'push' ] ; then
-    Rscript -e "require(devtools); install_github('NumbersInternational/travisCI'); travisCI::NotifyWarnings($TRAVIS_REPO_SLUG, $TRAVIS_BUILD_ID); travisCI::TriggerDownstreamBuilds()";
+    Rscript -e "require(devtools); install_github('NumbersInternational/travisCI'); travisCI::NotifyWarnings("$TRAVIS_REPO_SLUG", "$TRAVIS_BUILD_ID"); travisCI::TriggerDownstreamBuilds()";
   fi
