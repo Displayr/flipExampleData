@@ -6,7 +6,7 @@
 \title{Benetton}
 \format{A \code{\link{data.frame}}.}
 \source{
-Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
+Pinson, Christian, and Vikas Tibrewala (1996), "United Colors of Benetton," INSEAD-CEDEP case study.
 }
 \usage{
 benetton

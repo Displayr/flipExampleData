@@ -8,7 +8,7 @@
 \source{
 Tim Bock.
 
-Adapted from Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
+Adapted from Pinson, Christian, and Vikas Tibrewala (1996), "United Colors of Benetton," INSEAD-CEDEP case study.
 }
 \usage{
 phone.associations

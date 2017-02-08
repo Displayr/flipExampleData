@@ -11,6 +11,8 @@ ReadCsvTable(file, as.is = TRUE, ...)
 \item{file}{A path and file name.}
 
 \item{as.is}{Prevents factors from automatically being created (see \code{\link[utils]{read.csv}})}
+
+\item{...}{Further arguments to be passed to read.csv}
 }
 \value{
 A \code{\link[base]{data.frame}} containing a representation of the data in the file.

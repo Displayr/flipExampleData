@@ -2,6 +2,7 @@
 #' \code{ReadCsvTable} reads a CSV file and turns the first column into row names.table in where the first row and column contain labels.
 #' @param file A path and file name.
 #' @param as.is Prevents factors from automatically being created (see \code{\link[utils]{read.csv}})
+#' @param ... Further arguments to be passed to read.csv
 #' @return A \code{\link[base]{data.frame}} containing a representation of the data in the file.
 #' @importFrom utils read.csv
 #' @export

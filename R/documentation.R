@@ -1,15 +1,63 @@
+#' bank
+#'
+#' @description bank data set.
+#' @format A \code{\link{data.frame}}
+"bank"
+
+#'  Breakfast dissimilarities
+#'
+#'  @description breakfast dissimilarity dataset.
+#'  @format A \code{\link{data.frame}}
+"breakfast.dissimilarities"
+
+#'  mus03data
+#'
+#'  @description mus03data dataset.
+#'  @format A \code{\link{data.frame}}
+"mus03data"
+
+#'  Park visits
+#'
+#'  @description park visits dataset.
+#'  @format A \code{\link{data.frame}}
+"park.visits"
+
+
+#'  PCA Phone
+#'
+#'  @description PCA phone test dataset.
+#'  @format A \code{\link{list}}
+"pcaPhoneTestData"
+
+#' readership
+#'
+#' @description readership dataset.
+#' @format A \code{\link{matrix}}
+"readership"
+
+#' testweightsfilters
+#'
+#' @description testweightsfilter dataset.
+#' @format A \code{\link{data.frame}}
+"testweightsfilters"
+
+
+
+
+
+
 #'  Benetton
 #'
 #' @description Sales and advertising data for Benetton.
 #' @format A \code{\link{data.frame}}.
-#' @source Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
+#' @source Pinson, Christian, and Vikas Tibrewala (1996), "United Colors of Benetton," INSEAD-CEDEP case study.
 "benetton"
 
 #'  Benetton Associations
 #'
 #' @description Binary associations for Benetton (n = 2,151).
 #' @format A \code{\link{data.frame}}.
-#' @source Adapted from Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
+#' @source Adapted from Pinson, Christian, and Vikas Tibrewala (1996), "United Colors of Benetton," INSEAD-CEDEP case study.
 "benetton.associations"
 
 #' Q's color palate (16 October 2014)
@@ -115,7 +163,7 @@
 #'
 #' @description Binary associations for Benetton.
 #' @format A \code{\link{data.frame}}.
-#' @source Adapted from Pinson, Christian, and Vikas Tibrewala (1996), “United Colors of Benetton,” INSEAD-CEDEP case study.
+#' @source Adapted from Pinson, Christian, and Vikas Tibrewala (1996), "United Colors of Benetton," INSEAD-CEDEP case study.
 "phone.associations"
 
 

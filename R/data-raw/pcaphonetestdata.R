@@ -1,5 +1,5 @@
 # The data file that is created here has been first imported into Q, then modified in
-# Q ('Data Preparation1.Q') and then saved out as an SPSS file, which is turned into an R data file here.
+# Q ('Data_Preparation1.Q') and then saved out as an SPSS file, which is turned into an R data file here.
 
 
 temp <- foreign::read.spss(system.file("extdata", "pcaPhoneTestData.sav", package = "flipExampleData"),

@@ -1,6 +1,7 @@
 library(foreign)
-colas <- foreign::read.spss(system.file("extdata", "Colas.sav", package = "flipExampleData"), to.data.frame = TRUE)
-colas <- TidySPSS(colas)
+colas <- foreign::read.spss(system.file("extdata", "Colas.sav", package = "flipExampleData"),
+                            to.data.frame = TRUE, reencode = TRUE)
+                            colas <- TidySPSS(colas)
 devtools::use_data(colas, internal = FALSE, overwrite = TRUE)
 
 
