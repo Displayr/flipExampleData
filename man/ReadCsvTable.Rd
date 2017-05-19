@@ -21,4 +21,3 @@ A \code{\link[base]{data.frame}} containing a representation of the data in the 
 Read CSV File as Table.
 \code{ReadCsvTable} reads a CSV file and turns the first column into row names.table in where the first row and column contain labels.
 }
-

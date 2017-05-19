@@ -12,4 +12,3 @@ cola.perceptions.large
 A table showing the counts of people to choose each attribute for each brand in Q5 of \link{cola.original}.
 }
 \keyword{datasets}
-

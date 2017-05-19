@@ -12,4 +12,3 @@ testweightsfilters
 testweightsfilter dataset.
 }
 \keyword{datasets}
-

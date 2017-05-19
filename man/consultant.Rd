@@ -21,4 +21,3 @@ when they hire a data scientist. The data scientists were all survey research sp
  This data was collected by GreenBook.
 }
 \keyword{datasets}
-

@@ -7,8 +7,16 @@
 #'  Breakfast dissimilarities
 #'
 #'  @description breakfast dissimilarity dataset.
-#'  @format A \code{\link{data.frame}}
+#'  @format A \code{\link{matrix}}
 "breakfast.dissimilarities"
+
+#'  Car Switching
+#'
+#'  @description Switching between brands of car.
+#'  @references Colombo, Richard, Andrew Ehrenberg, and Darius Sabavala (1993), "The Car Challenge: Diversity in Analyzing Brand Switching Tables," Working Paper
+#'  @format A \code{\link{matrix}}
+"car.switching"
+
 
 #'  mus03data
 #'

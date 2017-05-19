@@ -15,4 +15,3 @@ weight
 Name, height, weight, and age, of children.
 }
 \keyword{datasets}
-

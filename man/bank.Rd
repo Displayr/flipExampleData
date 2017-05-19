@@ -12,4 +12,3 @@ bank
 bank data set.
 }
 \keyword{datasets}
-

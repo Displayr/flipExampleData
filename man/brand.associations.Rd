@@ -15,4 +15,3 @@ brand.associations
 Binary associations between brands and attributes, collected from a sample of 3173 Australians in 2005 (random allocaiton of brand to attributes).
 }
 \keyword{datasets}
-

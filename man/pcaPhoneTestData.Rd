@@ -13,4 +13,3 @@ pcaPhoneTestData
  @format A \code{\link{list}}
 }
 \keyword{datasets}
-

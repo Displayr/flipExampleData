@@ -12,4 +12,3 @@ qColors
 Colors used in the data analysis app www.q-researchsoftware.com
 }
 \keyword{datasets}
-

@@ -12,4 +12,3 @@ cola.original
 A data file from a survey of the Australian cola market in 2007.
 }
 \keyword{datasets}
-

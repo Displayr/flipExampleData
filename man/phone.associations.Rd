@@ -3,6 +3,7 @@
 \docType{data}
 \name{phone.associations}
 \alias{phone.associations}
+\alias{phone.associations}
 \title{Phone Associations}
 \format{A \code{\link{data.frame}}.}
 \source{
@@ -21,4 +22,3 @@ Binary associations between Australian phone brands and attributes, collected fr
 Binary associations for Benetton.
 }
 \keyword{datasets}
-

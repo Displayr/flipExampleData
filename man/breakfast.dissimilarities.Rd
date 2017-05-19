@@ -10,7 +10,6 @@ breakfast.dissimilarities
 }
 \description{
 @description breakfast dissimilarity dataset.
- @format A \code{\link{data.frame}}
+ @format A \code{\link{matrix}}
 }
 \keyword{datasets}
-

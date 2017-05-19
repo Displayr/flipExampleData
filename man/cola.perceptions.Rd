@@ -12,4 +12,3 @@ cola.perceptions
 A modified version of \link{cola.perceptions.large}, where the data is in proportions and some columns have been removed.
 }
 \keyword{datasets}
-

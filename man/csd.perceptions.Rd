@@ -15,4 +15,3 @@ csd.perceptions
 Binary associations between CSD brands and attributes, collected in Sydney c2000 amongst UTS students.
 }
 \keyword{datasets}
-

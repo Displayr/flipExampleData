@@ -17,4 +17,3 @@ A \code{\link{data.frame}}
 \code{TidySPSS}
 Appends Variable Labels as attributes in a data.frame.
 }
-

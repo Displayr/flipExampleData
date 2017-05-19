@@ -15,4 +15,3 @@ csd.situations
 Binary associations between CSD brands and the situations in which they are used, collected in Sydney c2001 amongst University of Sydney students.
 }
 \keyword{datasets}
-

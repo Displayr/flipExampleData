@@ -13,4 +13,3 @@ mus03data
  @format A \code{\link{data.frame}}
 }
 \keyword{datasets}
-

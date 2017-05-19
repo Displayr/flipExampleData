@@ -15,4 +15,3 @@ benetton.associations
 Binary associations for Benetton (n = 2,151).
 }
 \keyword{datasets}
-

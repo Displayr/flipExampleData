@@ -15,4 +15,3 @@ benetton
 Sales and advertising data for Benetton.
 }
 \keyword{datasets}
-

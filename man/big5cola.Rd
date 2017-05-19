@@ -12,4 +12,3 @@ big5cola
 A table showing mean Big 5 personality scores according to user's most frequently consumed brand. Computed from \link{cola.original}.
 }
 \keyword{datasets}
-

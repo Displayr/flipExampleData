@@ -15,4 +15,3 @@ phone
 A survey about mobile phones, conducted from a sample of 725 friends and family of University of Sydney students, c. 2001.
 }
 \keyword{datasets}
-

@@ -13,4 +13,3 @@ park.visits
  @format A \code{\link{data.frame}}
 }
 \keyword{datasets}
-
