@@ -1,3 +1,9 @@
+#' adult.2000
+#'
+#' @description US census data.
+#' @format A \code{\link{data.frame}}
+"adult.2000"
+
 #' bank
 #'
 #' @description bank data set.
