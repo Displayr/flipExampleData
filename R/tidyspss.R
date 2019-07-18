@@ -6,10 +6,8 @@
 #' @export
 TidySPSS <- function(data)
 {
-    attr(data, "variable.labels") <- stri_trans_general(attr(data, "variable.labels"), "latin-ascii")
-    n <- ncol(data)
-    labels <- attr(data, "variable.labels")
-    labels <- stri_trans_general(labels, "latin-ascii")
+    attr(data, "variable.labels") <- labels <- stri_trans_general(attr(data, "variable.labels"), "latin-ascii")
+    names(labels) <- names(data)
     for (i in attr(data, "names"))
     {
         attr(data[, i], "label") <- labels[i]
