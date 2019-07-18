@@ -3,7 +3,7 @@
 \name{TidySPSS}
 \alias{TidySPSS}
 \title{\code{TidySPSS}
-Appends Variable Labels as attributes in a data.frame.}
+Appends Variable Labels as attributes in a data.frame and ensures they and the levels are ascii.}
 \usage{
 TidySPSS(data)
 }
@@ -15,5 +15,5 @@ A \code{\link{data.frame}}
 }
 \description{
 \code{TidySPSS}
-Appends Variable Labels as attributes in a data.frame.
+Appends Variable Labels as attributes in a data.frame and ensures they and the levels are ascii.
 }

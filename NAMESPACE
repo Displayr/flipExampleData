@@ -2,4 +2,5 @@
 
 export(ReadCsvTable)
 export(TidySPSS)
+importFrom(stringi,stri_trans_general)
 importFrom(utils,read.csv)

@@ -1,4 +1,4 @@
-library(foreign)
+require(foreign)
 bank <- foreign::read.spss(system.file("extdata", "bank_tidied.sav", package = "flipExampleData"),
                            to.data.frame = TRUE)
 devtools::use_data(bank, internal = FALSE, overwrite = TRUE)

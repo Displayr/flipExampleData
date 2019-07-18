@@ -7,6 +7,7 @@ Maintainer: Displayr <opensource@displayr.com>
 Description: Example data used for testing flip projects.
 License: GPL-3
 Depends: R (>= 2.10)
-Imports: utils
+Imports: stringi, utils
+Suggests: foreign, devtools
 LazyData: TRUE
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
