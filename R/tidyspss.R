@@ -7,7 +7,7 @@
 TidySPSS <- function(data)
 {
     attr(data, "variable.labels") <- labels <- stri_trans_general(attr(data, "variable.labels"), "latin-ascii")
-    if (length(labels) > 0)
+    if (length(labels) == NCOL(data))
         names(labels) <- names(data)
     for (i in attr(data, "names"))
     {
