@@ -8,6 +8,9 @@ Description: Example data used for testing flip projects.
 License: GPL-3
 Depends: R (>= 2.10)
 Imports: stringi, utils
-Suggests: foreign, devtools
+Suggests: 
+    foreign,
+    devtools,
+    testthat (>= 2.1.0)
 LazyData: TRUE
 RoxygenNote: 6.1.1
