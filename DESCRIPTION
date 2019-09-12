@@ -1,7 +1,7 @@
 Package: flipExampleData
 Type: Package
 Title: Example data files for use in the flip project
-Version: 0.2.0
+Version: 1.0.0
 Author: Displayr <opensource@displayr.com>
 Maintainer: Displayr <opensource@displayr.com>
 Description: Example data used for testing flip projects.
