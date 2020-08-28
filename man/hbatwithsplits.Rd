@@ -4,7 +4,9 @@
 \name{hbatwithsplits}
 \alias{hbatwithsplits}
 \title{hbatwithsplits}
-\format{A \code{\link{data.frame}}.}
+\format{
+A \code{\link{data.frame}}.
+}
 \source{
 Multivariate Data Analysis (7th Edition) 7th Edition, Joseph F. Hair Jr (Author), William C. Black  (Author), Barry J. Babin  (Author), Rolph E. Anderson (Author).
 }

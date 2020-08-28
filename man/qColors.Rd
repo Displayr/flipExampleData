@@ -4,7 +4,9 @@
 \name{qColors}
 \alias{qColors}
 \title{Q's color palate (16 October 2014)}
-\format{A vector containing RGB colors}
+\format{
+A vector containing RGB colors
+}
 \usage{
 qColors
 }

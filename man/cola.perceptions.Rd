@@ -4,7 +4,9 @@
 \name{cola.perceptions}
 \alias{cola.perceptions}
 \title{Cola Perceptions}
-\format{A \code{\link{data.frame}}.}
+\format{
+A \code{\link{data.frame}}.
+}
 \usage{
 cola.perceptions
 }

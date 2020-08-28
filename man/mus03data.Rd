@@ -4,7 +4,9 @@
 \name{mus03data}
 \alias{mus03data}
 \title{mus03data}
-\format{An object of class \code{data.frame} with 3064 rows and 33 columns.}
+\format{
+An object of class \code{data.frame} with 3064 rows and 33 columns.
+}
 \usage{
 mus03data
 }

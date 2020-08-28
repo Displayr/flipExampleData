@@ -4,7 +4,9 @@
 \name{testweightsfilters}
 \alias{testweightsfilters}
 \title{testweightsfilters}
-\format{A \code{\link{data.frame}}}
+\format{
+A \code{\link{data.frame}}
+}
 \usage{
 testweightsfilters
 }

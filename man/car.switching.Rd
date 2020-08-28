@@ -4,7 +4,9 @@
 \name{car.switching}
 \alias{car.switching}
 \title{Car Switching}
-\format{An object of class \code{data.frame} with 17 rows and 17 columns.}
+\format{
+An object of class \code{data.frame} with 17 rows and 17 columns.
+}
 \usage{
 car.switching
 }

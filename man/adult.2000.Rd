@@ -4,7 +4,9 @@
 \name{adult.2000}
 \alias{adult.2000}
 \title{adult.2000}
-\format{A \code{\link{data.frame}}}
+\format{
+A \code{\link{data.frame}}
+}
 \usage{
 adult.2000
 }

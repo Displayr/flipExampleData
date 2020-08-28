@@ -4,7 +4,11 @@
 \name{phone.associations}
 \alias{phone.associations}
 \title{Phone Associations}
-\format{A \code{\link{data.frame}}.}
+\format{
+A \code{\link{data.frame}}.
+
+A \code{\link{data.frame}}.
+}
 \source{
 Tim Bock.
 

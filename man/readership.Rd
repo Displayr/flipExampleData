@@ -4,7 +4,9 @@
 \name{readership}
 \alias{readership}
 \title{readership}
-\format{A \code{\link{matrix}}}
+\format{
+A \code{\link{matrix}}
+}
 \usage{
 readership
 }

@@ -4,7 +4,9 @@
 \name{csd.perceptions}
 \alias{csd.perceptions}
 \title{CSD Associations}
-\format{A \code{\link{data.frame}}.}
+\format{
+A \code{\link{data.frame}}.
+}
 \source{
 Tim Bock.
 }

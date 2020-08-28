@@ -4,7 +4,9 @@
 \name{consultant}
 \alias{consultant}
 \title{consultant}
-\format{A \code{\link{data.frame}}.}
+\format{
+A \code{\link{data.frame}}.
+}
 \usage{
 consultant
 }

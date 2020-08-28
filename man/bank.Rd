@@ -4,7 +4,9 @@
 \name{bank}
 \alias{bank}
 \title{bank}
-\format{A \code{\link{data.frame}}}
+\format{
+A \code{\link{data.frame}}
+}
 \usage{
 bank
 }

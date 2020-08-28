@@ -4,7 +4,9 @@
 \name{park.visits}
 \alias{park.visits}
 \title{Park visits}
-\format{An object of class \code{data.frame} with 659 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 659 rows and 4 columns.
+}
 \usage{
 park.visits
 }
