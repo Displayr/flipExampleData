@@ -3,4 +3,4 @@
 german.state.gdp <- read.csv(file.path("inst", "extdata", "German_state_GDP.csv"),
     stringsAsFactors = FALSE, encoding = "UTF-8")
 
-devtools::use_data(german.state.gdp, internal = FALSE, overwrite = TRUE)
+usethis::use_data(german.state.gdp, internal = FALSE, overwrite = TRUE)

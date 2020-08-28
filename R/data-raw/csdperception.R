@@ -9,7 +9,7 @@ c( 0.08168, 0.224, 0.1015, 0.04579, 0.04815, 0.04084, 0.03094, 0.05562, 0.05322,
 dimnames=list(Brand=c('Coke','V',"Red Bull","Lift Plus",'Diet Coke','Fanta','Lift','Pepsi'),
 Attribute=c('Kids', 'Teens', "Enjoy life", 'Picks you up', 'Refreshes', 'Cheers you up', 'Energy', 'Up-to-date', 'Fun', 'When tired', 'Relax')))
 
-devtools::use_data(csd.perceptions, internal = FALSE, overwrite = TRUE)
+usethis::use_data(csd.perceptions, internal = FALSE, overwrite = TRUE)
 
 
 

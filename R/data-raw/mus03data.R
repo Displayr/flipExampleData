@@ -1,7 +1,7 @@
 library(foreign)
 mus03data <- read.dta("http://cameron.econ.ucdavis.edu/musbook/mus03data.dta")
 summary(mus03data)
-devtools::use_data(mus03data, internal = FALSE, overwrite = TRUE)
+usethis::use_data(mus03data, internal = FALSE, overwrite = TRUE)
 
 
 LinearRegression(ltotexp ~ suppins + phylim + actlim + totchr + age + female + income, data = mus03data)

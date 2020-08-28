@@ -16,7 +16,7 @@ count <- round(y)
 ordered <- factor(count)
 testweightsfilters <- data.frame(filter, wgt, y, one.if.filtered, binary, ordered, count)
 rm(filter, wgt, y, one.if.filtered, binary,n, k, ordered)
-devtools::use_data(testweightsfilters, internal = FALSE, overwrite = TRUE)
+usethis::use_data(testweightsfilters, internal = FALSE, overwrite = TRUE)
 
 library(foreign)
 write.foreign(testweightsfilters, "c:/delete/testweightsfilters.txt", "c:/delete/testweightsfilters.sps",   package="SPSS")

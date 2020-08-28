@@ -2,7 +2,7 @@ library(AER)
 data("RecreationDemand", package = "AER")
 park.visits <- RecreationDemand[,c(1,2,4,7)]
 names(park.visits)[[4]] <- "price"
-devtools::use_data(park.visits, internal = FALSE, overwrite = TRUE)
+usethis::use_data(park.visits, internal = FALSE, overwrite = TRUE)
 
 
 This example is based on data and methods  from Cameron, A Colin and Pravin K. Trivedi (1998), "Regression analsyes of count data",chapter 6.

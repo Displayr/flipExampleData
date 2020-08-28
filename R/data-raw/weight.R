@@ -5,6 +5,6 @@ weight <- data.frame(
     Age = c(14, 13, 13, 14, 14, 12, 12, 15, 13, 12, 11, 14, 12, 15, 16, 12, 15, 11, 15)
 )
 
-devtools::use_data(weight, internal = FALSE, overwrite = TRUE)
+usethis::use_data(weight, internal = FALSE, overwrite = TRUE)
 
 

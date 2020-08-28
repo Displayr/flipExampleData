@@ -11,7 +11,7 @@ for (i in 1:4) {
   breakfastDissimilarities[[i]] = as.dist(zmat)
 }
 breakfast.dissimilarities <- breakfastDissimilarities
-devtools::use_data(breakfast.dissimilarities, internal = FALSE, overwrite = TRUE)
+usethis::use_data(breakfast.dissimilarities, internal = FALSE, overwrite = TRUE)
 
 # MDS - square
 library(smacof)

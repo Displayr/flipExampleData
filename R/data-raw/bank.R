@@ -1,7 +1,7 @@
 require(foreign)
 bank <- foreign::read.spss(system.file("extdata", "bank_tidied.sav", package = "flipExampleData"),
                            to.data.frame = TRUE)
-devtools::use_data(bank, internal = FALSE, overwrite = TRUE)
+usethis::use_data(bank, internal = FALSE, overwrite = TRUE)
 
 # # Exporting the file out again, including the modifications
 # data(bank)

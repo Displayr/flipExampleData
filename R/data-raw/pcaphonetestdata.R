@@ -9,4 +9,4 @@ pcaPhoneTestData <- list(data.set = temp[,match("q2320_1", names(temp)):match("q
                   data.set.original =  temp[,match("q23a", names(temp)):match("q23y", names(temp))],
                   weight = temp$wBTNOH,
                   calibrated.weight = temp$nEJYFW)
-devtools::use_data(pcaPhoneTestData, internal = FALSE, overwrite = TRUE)
+usethis::use_data(pcaPhoneTestData, internal = FALSE, overwrite = TRUE)
