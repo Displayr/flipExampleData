@@ -189,7 +189,15 @@
 #' @source 6 August 2016: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_introreg_sect003.htm.
 "weight"
 
-
+#' Burger Brand Tracking
+#'
+#' @description Survey data on customer visits and preferences for meals at different burger
+#'   restaurants brands.
+#' @format A \code{\link{data.frame}}. This data set was used as an example of stacking data in
+#'   regression and driver analysis. In particular, Q4 and Q14 as the stacked outcome and predictors
+#'   respectively.
+#' @source 30 June 2019: https://wiki.q-researchsoftware.com/wiki/File:Burger_Brand_Tracking_Oct_2017.sav Added to flipExampleData 28th August 2020
+"burger.brand.tracking"
 
 #globalVariables(c("q.colors"))
 

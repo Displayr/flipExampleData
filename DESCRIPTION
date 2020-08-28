@@ -1,16 +1,15 @@
 Package: flipExampleData
 Type: Package
 Title: Example data files for use in the flip project
-Version: 1.0.1
+Version: 1.0.2
 Author: Displayr <opensource@displayr.com>
 Maintainer: Displayr <opensource@displayr.com>
 Description: Example data used for testing flip projects.
 License: GPL-3
 Depends: R (>= 2.10)
 Imports: stringi, utils, usethis
-Suggests: 
-    foreign,
-    devtools,
-    testthat (>= 2.1.0)
+Suggests: foreign,
+ devtools,
+ testthat (>= 2.1.0)
 LazyData: TRUE
 RoxygenNote: 7.1.1
