@@ -199,6 +199,20 @@
 #' @source 30 June 2019: https://wiki.q-researchsoftware.com/wiki/File:Burger_Brand_Tracking_Oct_2017.sav Added to flipExampleData 28th August 2020
 "burger.brand.tracking"
 
+#' Hotel Reviews
+#'
+#' @description The first 100,000 cases from the Hotels Review data scraped from booking.com by a user
+#'    and uploaded to kaggle.com. It contains only two text variables from that dataset from a
+#'     short form response to their hotel survey.
+#' @format A \code{\link{data.frame}} that contains two variables
+#' \itemize{
+#'     \item \code{Negative_Review} A persons negative comments about the hotel room/experience
+#'     \item \code{Positive_Review} A persons positive comments about the hotel room/experience
+#' }
+#' @source 22 August 2017: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe Added to flipExampleData 28th August 2020
+"hotel.reviews"
+
+
 #globalVariables(c("q.colors"))
 
 #'
