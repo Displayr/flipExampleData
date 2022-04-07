@@ -248,7 +248,7 @@
 #' @format A \code{\link{data.frame}}.
 #' @source Displayr Pty Ltd
 #' Variables:
-#' \itemize {
+#' \itemize{
 #' \item ResponseId label is Response ID
 #' \item Status label is Status
 #' \item Duration__in_seconds_ label is  Duration (in seconds)
