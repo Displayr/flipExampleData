@@ -274,3 +274,8 @@
 #' \item q14 label is    Priced purchase intent
 #' \item META_Browser label is   Browser Meta Info - Browser}
 "ilock"
+
+#' US survey on mobile phones
+#'
+#' @format data.frame
+"mobiles"
