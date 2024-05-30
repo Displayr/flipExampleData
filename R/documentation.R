@@ -274,3 +274,9 @@
 #' \item q14 label is    Priced purchase intent
 #' \item META_Browser label is   Browser Meta Info - Browser}
 "ilock"
+
+#' US survey on mobile phones over a 4 week period concerning the
+#' Likes and Dislikes of a Telecommunications company's services.
+#'
+#' @format data.frame
+"mobiles.feedback.4.weeks"
